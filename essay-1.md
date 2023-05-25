@@ -1,5 +1,8 @@
+
+# Introduction
 In this essay I reflect on the hypothetical situtation of working at car ride company and being tasked with implementing an unsupervised pricing model. In this I reflect on my position and anticipate some societal consequences.
 
+# How might your work on this project contribute to unintentional harm?
 
 Recent innovations in technology have resulted in companies providing transportation as a service. 
 This could be anything from car rides to bike hires. The company I work for specialises in providing 
@@ -73,7 +76,7 @@ employees and citizens, other collective groups such as governments and business
 considered in preventing unethical conduct.
 
 
-Bibliography:
+# Bibliography
 BBC News. (2017) Uber has refunded passengers after London Bridge terror attack. [online] BBC 
 News. Available at: <https://www.bbc.co.uk/news/newsbeat-40158459> [Accessed 21 October 
 2021]. 
