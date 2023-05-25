@@ -1,6 +1,6 @@
 
 # Introduction
-In this essay I reflect on the hypothetical situtation of working at car ride company and being tasked with implementing an unsupervised pricing model. In this I reflect on my position and anticipate some societal consequences.
+In this essay I reflect on the hypothetical situtation of being tasked with working on an unsupervised pricing model at car ride company. In this I reflect on my position and anticipate some societal consequences.
 
 # How might your work on this project contribute to unintentional harm?
 
