@@ -27,37 +27,12 @@ considered in preventing unethical conduct.
 
 
 # Bibliography
-BBC News. (2017) Uber has refunded passengers after London Bridge terror attack. [online] BBC 
-News. Available at: <https://www.bbc.co.uk/news/newsbeat-40158459> [Accessed 21 October 
-2021]. 
-
-
-Blystone, D. (2021) The Story of Uber. [online] Investopedia. Available at: 
-<https://www.investopedia.com/articles/personal-finance/111015/story-uber.asp#:~:text=Uber%20Technologies%20Inc.%27s%20%28UBER%29%20explosive%20growth%20
-and%20constant,private%20startup%20company%20in%20the%20world.%201%202> [Accessed 21 
-October 2021]. 
-
-Clayton, E. (2017) Does #BoycottUber really work?. [online] Ecnmy. Available at: 
-<https://www.ecnmy.org/engage/does-boycottuber-really-work/> [Accessed 21 October 2021].
-
-
-Costanza-Chock, S. (2020) Directions for Future Work: From #TechWontBuildIt to 
-#DesignJustice. Design Justice,.
-
-
-Dreher, J. (2015) Sustaining Hierarchy - Uber isn't sharing. Kings Review.
-
-
-Graeff, E. (2020) The Responsibility to Not Design and the Need for Citizen Professionalism. Tech 
-Otherwise. https://doi.org/10.21428/93b2c832.c8387014
-
-
-Lipton, Z. (2018) The Mythos of Model Interpretability. Queue, 16(3), pp.31-57.
-
-
-Rudin, C. (2019) Stop explaining black box machine learning models for high stakes decisions and use 
-interpretable models instead. Nature Machine Intelligence, 1(5), pp.206-215.
-
-
-Smiley, E. (2020) The racist business model behind Uber and Lyft | Erica Smiley. [online] The 
-Guardian. Available at: <https://www.theguardian.com/commentisfree/2020/oct/29/uber-lyft-racist-business-model-prop-22> [Accessed 21 October 2021].
+- BBC News. (2017) *Uber has refunded passengers after London Bridge terror attack*. [online] BBC News. Available at: <https://www.bbc.co.uk/news/newsbeat-40158459> [Accessed 21 October 2021].
+- Blystone, D. (2021) *The Story of Uber*. [online] Investopedia. Available at: <https://www.investopedia.com/articles/personal-finance/111015/story-uber.asp> [Accessed 21 October 2021].
+- Clayton, E. (2017) *Does #BoycottUber really work?*. [online] Ecnmy. Available at: <https://www.ecnmy.org/engage/does-boycottuber-really-work/> [Accessed 21 October 2021].
+- Costanza-Chock, S. (2020) *Directions for Future Work: From #TechWontBuildIt to #DesignJustice*. Design Justice.
+- Dreher, J. (2015) *Sustaining Hierarchy - Uber isn't sharing*. Kings Review.
+- Graeff, E. (2020) *The Responsibility to Not Design and the Need for Citizen Professionalism*. Tech Otherwise. https://doi.org/10.21428/93b2c832.c8387014
+- Lipton, Z. (2018) *The Mythos of Model Interpretability*. Queue, 16(3), pp.31-57.
+- Rudin, C. (2019) *Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead*. Nature Machine Intelligence, 1(5), pp.206-215.
+- Smiley, E. (2020) *The racist business model behind Uber and Lyft | Erica Smiley*. [online] The Guardian. Available at: <https://www.theguardian.com/commentisfree/2020/oct/29/uber-lyft-racist-business-model-prop-22> [Accessed 21 October 2021].
