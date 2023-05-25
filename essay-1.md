@@ -16,7 +16,8 @@ location.
 
 
 The usage of transportation as a service is useful to society, as seen by the rapid growth of Uber 
-(Blystone, 2021). However, with the company looking to implement changes to its pricing, there are 
+[(Blystone, 2021)](https://www.investopedia.com/articles/personal-finance/111015/story-uber.asp#:~:text=Uber%20Technologies%20Inc.%27s%20%28UBER%29%20explosive%20growth%20
+and%20constant,private%20startup%20company%20in%20the%20world.%201%202). However, with the company looking to implement changes to its pricing, there are 
 ethical challenges to be considered. The unsupervised learning algorithm looks to find trends in 
 usage, improving its predictions as data is gathered in real-time. From setup, it acts as a ‘black-box’, 
 where the engineer has little to no understanding of how prices are calculated (Rudin, 2019). Thus, 
